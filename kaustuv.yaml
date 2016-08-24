@@ -1,0 +1,161 @@
+
+# Example resume
+
+profile:
+    name: Kaustuv Deolal
+    label: Software engineer
+    email: vutsuak96@gmail.com
+    phone: 782766887
+    birth: 2nd June 1996
+    address: New Delhi, India
+    summary: >
+        Computer Science Major, Maths Minor. FOSS enthusiast. Pythonista. Avid mobile developer and tech geek
+
+    image: "https://raw.githubusercontent.com/Vutsuak16/Vutsuak16.github.io/master/images/imgserver.jpg"
+    website: http://vutsuak16.github.io/
+
+    networks:
+
+      
+
+        -   provider: github
+            username: vutsuak16
+            url: https://github.com/Vutsuak16
+
+        -   provider: linkedin
+            username: Kaustuv Deolal
+            url: https://www.linkedin.com/in/kaustuv-deolal-b3578561
+
+        -   provider: google+
+            username: kaustuv deolal
+            url: https://plus.google.com/u/0/102947356394218480359/posts/p/pub
+
+        -   provider: angelist
+            username: kaustuv deolal
+            url: https://angel.co/kaustuv-deolal
+skills:
+    -   area: Programming
+        skills:
+            - Python, +3 years
+            - Java, intermediate, +3 years
+            - Android, intermediate, +2 years
+            - Javascript,  novice, +1year
+            - CSS/HTML/HTML5/bootstrap,  +2year
+            - C/C++, intermediate, +3 years
+
+
+    -   area: Technology
+        skills:
+            - Git, Gitlab,Bitbucket
+            - Sqlite,MySQL,SQLAlchemy,NoSQL,Peevee,ORM
+            
+            
+    -   area: Languages
+        skills:
+            - Hindi, Mother tongue
+            - English, Fluent
+            - Nepali, Basic
+
+work:
+    -   company: Echo
+        role: Android and Python Backend 
+        website: http://myecho.io/
+        app-link: https://play.google.com/store/apps/details?id=com.qulp_echo&hl=en
+        date: 16/May/2016 - 21/July/2016
+        summary: Worked on creating the company website and blog. XML designing and Android APIs.Basic Python Scripting 
+        highlights:
+            - Frontend and backend development.
+
+            - Twitter Follow-Unfollow script, Pyhon's [Tweepy](http://www.tweepy.org/)
+            - >
+                Python's [Flask](http://flask.pocoo.org/)
+                and  SQLAlchemy ORM framework.
+            - Volley Android [Docs] (https://developer.android.com/training/volley/index.html).
+
+    -   company: Geed India 
+        role: Android Developer Intern
+        website: http://www.geedindia.org/
+        app-link: https://play.google.com/store/apps/details?id=ecbcapp.ecbc&hl=en
+        date: 2015(September)-2015(December)
+        summary: Worked on ECBC app. Using various android widgets created a dynamic multifunctional UI.
+        highlights:
+            - >
+               Created  U-Value Calculator activity, listview and longpress.
+            - >
+               Created EPF factor Calculator actovity
+           
+    -   company: IIIT D and M
+        role: Research Intern
+        website: http://www.iiitdm.ac.in/
+        date: 06.2015 - 07.2015
+        summary: Worked on a novel FP mining algorithm using Mathematical Induction.Contributed to the research.
+        highlights:
+            - "Scientific Python"
+            - "Numpy,Scipy,Matplotlib"         
+    
+
+
+
+projects:
+
+    -   name: SNU MESS APP
+        role: Android Developer
+        website: "https://play.google.com/store/apps/details?id=karan.jihadi.windows7.food&hl=en"
+        date: 01.2016
+        summary: Developed an android application that fetches the mess menu and displays it to the college students.
+        highlights:
+            - Async request
+            - Json Parsing
+
+    -   name: Braille Printer
+        role: Arduino Coder (embedded)
+        website: https://github.com/Vutsuak16/Braille
+        date: 11-2015
+        summary: The setup is to make optically chalenged people read the text files,
+             in our Desktops.A python script reads a text file from our Desktop,
+             and sends each character at a time to arduino , via serial communcation.
+            The arduino reads the character and sets the pin up in such a way that it takes form of a braille character.
+        highlights:
+            - Serial, Serial Port communcation
+            - Arduino C
+
+    -   name: Binary Sequeces and Exponential Matrix (Research)
+        role: Scientfic Coder developed algorithms to find the matrix exponent
+        website: https://github.com/Vutsuak16/Exponent_Matrix
+        date: 02-2015
+        highlights:
+            - Scientific Python
+            - Numpy,Scipy
+
+    -   name: Hallway Motion Detection and Image Recognition
+        role: Designed algorithm to detect motion and facial recognition
+        date: 12-2014
+        highlights:
+            - Matlab
+            - Arduino
+            - Euclidean Distance Algorithm
+
+
+education:
+    -   location: Shiv Nadar University, New Delhi, India
+        date: 2013 - 2017
+        summary: Computer Science Major, Mathematics Minor
+
+    -   location: City Montessori School, Gomtinagar,Lucknow,India
+        date: 2011 - 2013
+        summary: ISC 95.5%
+
+    -   location: City Montessori School, Gomtinagar,Lucknow,India
+        date: 2009 - 2011
+        summary: ICSE 96.2%  
+
+interests:
+    - General Computer Science
+    - Open Source 
+    - Reading
+    - Progressive Rock and Blues
+    - Golf
+    - Swimming
+    - Cricket
+
+

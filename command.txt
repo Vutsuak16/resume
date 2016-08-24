@@ -1,0 +1,1 @@
+python build.py --output_dir=build --format=html --theme=simple  kaustuv.yaml
